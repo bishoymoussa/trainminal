@@ -2,6 +2,8 @@
 
 A terminal-based ML/DL training monitor that provides real-time metrics, resource monitoring, and process management - all in your terminal, no web interfaces needed!
 
+![Trainminal Example](examples/trainminal_example.png)
+
 ## Features
 
 - **Real-time Metrics Display**: Losses, accuracy, learning rate, and custom metrics
